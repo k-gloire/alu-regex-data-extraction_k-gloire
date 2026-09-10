@@ -43,11 +43,6 @@ print("CARDS:", cards)
 print("PHONES:", phones)
 print("URLS:", urls)
 
-
-# test_phones = ["0788123456", "0788 123 456", "+250722556890", "0110009901394"]
-# for phone in test_phones:
-#     print(phone, ":", is_valid_phone(phone))
-
 valid_phones = [p for p in phones if is_valid_phone(p)]
 valid_cards = [hide_card(c) for c in cards if is_valid_card(c)]
 
