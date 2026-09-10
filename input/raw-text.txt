@@ -1,0 +1,24 @@
+--- Customer Support Log Export (raw) ---
+
+Ticket #4471 opened by j.umwali@alueducation.com regarding billing.
+Customer phone: 0788365300 alt: 0788 231 230
+
+Ticket #4472 - alumni contact for reunion event: gloire.keza@alumni.alueducation.com
+She can also be reached at +250736535300 or via her backup line +250 788 416 810
+
+Ticket #4473 - SI department inquiry from u.shania@si.alueducation.com, phone: 0788123234
+
+Payment attempt logged: card number 4213 3456 5645 6767, exp 09/27
+Another failed charge: 4400-0066-5500-0055 declined - insufficient funds
+Refund processed to card ending associated with 2045356487198651
+
+Please visit our support portal at https://support.aluexample.com/tickets/4471 for updates.
+Also see http://www.aluexample.com/faq?ref=billing&lang=en for FAQs.
+
+Suspicious/malformed entries (do not trust blindly):
+- weird email: not-an-email@@@fake..com
+- injection attempt: '; DROP TABLE users; --  sent as "email" field: hacker@bad<script>.com
+- fake card: 0000-0000-0000-0000
+- broken url: htp:/notarealurl,com
+
+Contact billing dept at billing.support@alueducation.com or call 0800555019.

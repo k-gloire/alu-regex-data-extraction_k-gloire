@@ -1,0 +1,31 @@
+{
+    "emails": {
+        "official": [
+            "j.umwali@alueducation.com",
+            "billing.support@alueducation.com"
+        ],
+        "alumni": [
+            "gloire.keza@alumni.alueducation.com"
+        ],
+        "si": [
+            "u.shania@si.alueducation.com"
+        ]
+    },
+    "credit_cards_hidden": [
+        "************6767",
+        "************0055",
+        "************8651"
+    ],
+    "phone_numbers": [
+        "0788365300 ",
+        "0788 231 230",
+        "+250736535300 ",
+        "+250 788 416 810",
+        "0788123234",
+        "0800555019"
+    ],
+    "urls": [
+        "https://support.aluexample.com/tickets/4471",
+        "http://www.aluexample.com/faq?ref=billing&lang=en"
+    ]
+}
